@@ -1,4 +1,4 @@
-#!usr/bin/env bash
+#!/usr/bin/env bash
 
 read -p "Enter your email : " sender
 read -p "Enter recipient email : " reciever

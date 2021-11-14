@@ -1,4 +1,4 @@
-#!usr/bin/env bash
+#!/usr/bin/env bash
 
 read -p "Enter the coin name : " coin
 read -p "Enter your national currency : " crncy

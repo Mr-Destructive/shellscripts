@@ -1,4 +1,4 @@
-#!usr/bin/env bash
+#!/usr/bin/env bash
 
 read -p "Enter the word to find meaning : " word
 output="meaning.txt"
